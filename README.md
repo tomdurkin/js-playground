@@ -10,7 +10,7 @@ Things I've included:
 - Empty Custom JS file
 - Bootstrap JS
 
-- Empty CSS file in
+- Empty CSS file
 - Bootstrap CSS
 
 - Empty image folder
